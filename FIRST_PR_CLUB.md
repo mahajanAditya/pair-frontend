@@ -37,3 +37,8 @@ Hey all, just getting used to running with the PR process again.
 
 ----
 pdcoded :: Long live Internet and OpenSouce !
+
+* [AdityaMahajan] (https://github.com/mahajanAditya)
+Location: Jammu, India
+Experience: Computer Science Undergraduate
+My first contribution to open source
